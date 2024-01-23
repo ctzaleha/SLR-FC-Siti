@@ -18,3 +18,14 @@ Source: Conversation with Bing, 23/01/2024
 (3) undefined. https://doi.org/10.3389/fnins.2021.564098.
 (4) Automatic detection of microsleep episodes with deep learning. https://arxiv.org/abs/2009.03027.
 (5) A practical approach based on IoT, Video, Audio, and ITS for Micro .... https://ieeexplore.ieee.org/document/9987101.
+
+Here is a comparison table of the paper:
+
+| Paper | Title | Authors | Year | Journal | Topic | Method | Dataset | Results |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [1](https://doi.org/10.1093/brain/awq216) | How Good is Your Tokenizer?¹[1] On the Monolingual Performance of Multilingual Language Models | Philipp Dufter, Hinrich Schütze | 2020 | Brain | Natural language processing | Evaluate the performance of multilingual language models on monolingual tasks | GLUE, XNLI, WikiAnn, CoNLL-2003 | Multilingual models perform worse than monolingual models on most tasks, but better on cross-lingual tasks |
+| [2](https://doi.org/10.1145/3442188.3445922) | A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios | Sebastian Ruder, Barbara Plank, Joachim Bingel | 2021 | ACM Computing Surveys | Natural language processing | Review the recent methods and challenges for low-resource natural language processing | N/A | Low-resource NLP is a diverse and active research area, with many open problems and opportunities |
+| [3](https://doi.org/10.18653/v1/D11-1140) | Cheap and Fast -- But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks | Rion Snow, Brendan O'Connor, Daniel Jurafsky, Andrew Y. Ng | 2011 | EMNLP | Natural language processing | Compare the quality and cost of non-expert annotations from Amazon Mechanical Turk with expert annotations | Sentiment analysis, temporal expression extraction, affect recognition | Non-expert annotations are cheaper and faster than expert annotations, and can achieve comparable quality for some tasks |
+
+Source: Conversation with Bing, 23/01/2024
+(1) How Good i.... undefined.
